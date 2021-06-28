@@ -556,10 +556,9 @@
 }
 
 .u-section-4 .u-text-1 {
-  font-weight: 700;
   line-height: 52.8px;
   letter-spacing: normal;
-  font-family: Roboto, sans-serif;
+  font-weight: 700;
   margin: 99px 0 0;
 }
 
@@ -592,6 +591,10 @@
     width: 419px;
     margin-top: -519px;
     margin-bottom: 60px;
+  }
+
+  .u-section-4 .u-text-1 {
+    font-family: Nunito;
   }
 
   .u-section-4 .u-text-2 {
@@ -985,7 +988,6 @@
 .u-section-6 .u-text-1 {
   line-height: 52.8px;
   letter-spacing: normal;
-  font-family: Roboto, sans-serif;
   font-weight: 700;
   margin: 99px 0 0;
 }
@@ -1018,6 +1020,10 @@
   .u-section-6 .u-group-1 {
     margin-top: -485px;
     margin-bottom: 20px;
+  }
+
+  .u-section-6 .u-text-1 {
+    font-family: Nunito;
   }
 }
 
