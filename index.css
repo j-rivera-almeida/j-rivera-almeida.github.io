@@ -1072,7 +1072,7 @@
 .u-section-7 .u-icon-1 {
   height: 80px;
   width: 80px;
-  color: rgb(153, 153, 153) !important;
+  color: rgb(94, 94, 94) !important;
   margin: 0 auto;
 }
 
@@ -1117,14 +1117,6 @@
   padding: 0;
 }
 
-.u-section-7 .u-btn-2 {
-  border-style: none;
-  background-image: none;
-  text-decoration: underline !important;
-  margin: 0 auto;
-  padding: 0;
-}
-
 .u-section-7 .u-layout-cell-3 {
   min-height: 322px;
 }
@@ -1136,6 +1128,7 @@
 .u-section-7 .u-icon-3 {
   height: 80px;
   width: 80px;
+  color: rgb(153, 153, 153) !important;
   margin: 0 auto;
 }
 
